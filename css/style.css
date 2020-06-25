@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+.space {
+    padding: 40px 0px 0px 80px;
+}
+
+.flex_element {
+    display: flex;
+}
+
+.chung_toi_la {
+    display: inline-block;
+    width: 70%;
+}
+
+.movitation {
+    font-size: 70px;
+    font-weight: 900;
+    font: bold;
+    line-height: 1.2;
+}
+
+.site_wrapper {
+    margin: 0px auto;
+}
+
+.main_header {
+    width: 100%;
+    max-width: 1360px;
+}
